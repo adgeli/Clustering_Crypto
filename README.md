@@ -30,3 +30,17 @@ The notebook seeks to accomplish the following tasks:
 ![elbow_curve](Images/elbow_curve.png)
 
 ---
+
+## Installation Requirements
+
+To successfully view the assignment deliverables; [Crypto Clustering Notebook](Crypto_Clustering.ipynb), the following installations are required: 
+
+```
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install hvplot
+pip install plotly.express
+```
+
+---
