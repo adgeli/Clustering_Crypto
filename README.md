@@ -14,3 +14,19 @@
 
 ---
 
+## Project Objectives
+
+The following Clustering Crypto Jupyter Notebook uses unsupervised learning skills to cluster cryptocurrencies and create plots to present the results. 
+
+The notebook seeks to accomplish the following tasks:
+
+- Data preprocessing
+- Reducing data dimensions using PCA
+- Clustering Cryptocurrencies using K-Means
+- Visualize the results
+
+![visualization](Images/clustered_data.png)
+
+![elbow_curve](Images/elbow_curve.png)
+
+---
